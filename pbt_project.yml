@@ -1,0 +1,59 @@
+name: mohammad.johnson
+description: Horizontal
+version: 0.31.319
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: mohammadjohnson
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-02-24 20:54:21'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-24 20:54:21'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlOrchestratorPipelines: {}
+sqlBusinessApps: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-02-24T20:54:21.983489Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '2137674034'
+  createdAt: '2025-02-24T20:54:21.983489Z'
+  type: plibMaven
+projectDependencies:
+  '71':
+    projectUID: 71
+    projectName: annette.dach
+    repositoryPath: gitUri=http://gitserver:3000/dev_0IrWyBGo_team_157/dev_0IrWyBGo_project_71.git&subPath=
+    version: annette.dach/0.0.1.175
+    isDefault: false
+    author: null
+    createdAt: '2025-02-24 20:54:19'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
